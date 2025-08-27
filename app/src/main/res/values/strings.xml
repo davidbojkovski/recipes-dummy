@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="search_component_text_hint">Search by name</string>
+    <string name="search_clear_icon_content_description">search clear</string>
+    <string name="tags_component_selected_tag_content_description">selected tag</string>
+    <string name="search_component_button_text">Search</string>
+    <string name="not_available_text_placeholder">N/A</string>
+    <string name="recipe_cooking_time_icon_content_description">cooking time icon</string>
+    <string name="recipe_difficulty_icon_content_description">difficulty icon</string>
+    <string name="recipe_rating_icon_content_description">rating icon</string>
+    <string name="recipe_preparation_time_icon__content_description">preparation time icon</string>
+    <string name="recipe_servings_icon_content_description">servings icon</string>
+    <string name="recipe_cuisine_icon_content_description">cuisine icon</string>
+    <string name="recipe_ingredients_section_title">Ingredients</string>
+    <string name="recipe_instructions_section_title">Instructions</string>
+    <string name="expandable_section_collapse_icon_content_description">collapse section</string>
+    <string name="expandable_section_expand_icon_content_description">expand section</string>
+    <string name="recipe_details_not_available">Recipe details is not available to be presented at the moment!</string>
+</resources>
